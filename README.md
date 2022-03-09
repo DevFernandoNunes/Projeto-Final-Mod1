@@ -61,16 +61,16 @@ Antes de começar você vai precisar ter instalado em sua máquina as seguintes 
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabahar com o código como [VScode](https://code.visualstudio.com/).
 
-Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto2-Mod1)
+Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto-Final-Mod1)
 
 ## Abrir e rodar o projeto
 
 ```bash
  
 #Clone este repositório
-$ git clone <https://github.com/DevFernandoNunes/Projeto2-Mod1.git>
+$ git clone <https://github.com/DevFernandoNunes/Projeto-Final-Mod1.git>
 
-#Abra o arquivo projeto2.js que está na raiz da pasta principal após clonar o repositório.
+#Abra o arquivo projeto-final.js que está na raiz da pasta principal após clonar o repositório.
  
 ``` 
  
