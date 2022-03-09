@@ -1,0 +1,19 @@
+{
+  "name": "projetofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projeto-final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.2.1",
+    "sync": "^0.2.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
